@@ -5,7 +5,7 @@ Site de uma imobiliaria feito com html, css e js puros.
 <hr>
 
 <h3>Mobile</h3>
-<img width="275" height="575" alt="iPhone-13-Mini-rvs79 github io" src="https://github.com/user-attachments/assets/a9df6772-845e-4844-b5c8-d712a5c4f2db" />
+<img width="250" height="500" alt="iPhone-13-Mini-rvs79 github io" src="https://github.com/user-attachments/assets/a9df6772-845e-4844-b5c8-d712a5c4f2db" />
 
 <hr>
 
